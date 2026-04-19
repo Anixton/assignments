@@ -1,0 +1,10 @@
+.metals/
+.vscode/
+target/
+build/
+bin/
+.idea/
+*.class
+node_modules/
+dist/
+.env
